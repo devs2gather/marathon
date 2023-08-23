@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/base32"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"os"
 	"os/exec"
@@ -19,13 +20,23 @@ type details struct {
 }
 
 func main() {
-	// exec git and get user.name and user.email
-	cmd := exec.Command("git", "config", "--global", "--list")
-	out, err := cmd.Output()
+	path, err := exec.LookPath("git")
+	if errors.Is(err, exec.ErrDot) {
+		err = nil
+	}
 	if err != nil {
-		err = fmt.Errorf("Error %d: %s", 100, "Git must be installed")
+		err = fmt.Errorf("error %d: %s", 100, "git must be installed")
 		fmt.Println(err)
 		os.Exit(2)
+	}
+
+	// exec git and get user.name and user.email
+	cmd := exec.Command(path, "config", "--list")
+	out, err := cmd.Output()
+	if err != nil {
+		err = fmt.Errorf("error %d: %s", 102, "unexpected error")
+		fmt.Println(err)
+		os.Exit(1)
 	}
 
 	// parse output
@@ -41,7 +52,7 @@ func main() {
 
 	// check if name and email are set
 	if string(name) == "" || string(email) == "" {
-		err = fmt.Errorf("Error %d: %s", 101, "Git user.name and user.email must be set")
+		err = fmt.Errorf("error %d: %s", 101, "git user.name and user.email must be set")
 		fmt.Println(err)
 		os.Exit(1)
 	}
@@ -50,7 +61,7 @@ func main() {
 	cmd = exec.Command("git", "log", "-1", "--pretty=format:%h%n%s%n%an%n%ae")
 	out, err = cmd.Output()
 	if err != nil {
-		err = fmt.Errorf("Error %d: %s", 100, "Git must be installed")
+		err = fmt.Errorf("error %d: %s", 101, "can't retrieve latest commit")
 		fmt.Println(err)
 		os.Exit(2)
 	}
@@ -81,7 +92,7 @@ func main() {
 
 	d_json, err := json.Marshal(d)
 	if err != nil {
-		err = fmt.Errorf("Error %d: %s", 103, "Unexpected Error")
+		err = fmt.Errorf("error %d: %s", 102, "unexpected Error")
 		fmt.Println(err)
 		os.Exit(1)
 	}
