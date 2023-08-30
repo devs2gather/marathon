@@ -1,0 +1,231 @@
+{
+    "total": 16,
+    "leaderboard": {
+        "AbhayKabdwal": {
+            "name": "Abhay Kabdwal",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1872957562,
+                    "title": "Added Tim sort using python",
+                    "url": "https://github.com/devs2gather/algorithms/pull/32",
+                    "user": "AbhayKabdwal",
+                    "isMerged": true,
+                    "mergedAt": 1693393570000
+                }
+            ]
+        },
+        "BaljeetKumarSingh": {
+            "name": "Baljeet Kumar",
+            "total": 1,
+            "merged": 0,
+            "pullRequests": [
+                {
+                    "id": 1861039861,
+                    "title": "README.md file Modified",
+                    "url": "https://github.com/kunal-kushwaha/commclassroomOP/pull/3268",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "mergedAt": null
+                }
+            ]
+        },
+        "Muskan2512": {
+            "name": "Muskan Chaurasia",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1868365197,
+                    "title": "Binary Search Algorithm",
+                    "url": "https://github.com/devs2gather/algorithms/pull/10",
+                    "user": "Muskan2512",
+                    "isMerged": true,
+                    "mergedAt": 1693195663000
+                }
+            ]
+        },
+        "RaghavSaptam": {
+            "name": "Raghav Singh",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1871030243,
+                    "title": "Added linear search algorithm",
+                    "url": "https://github.com/devs2gather/algorithms/pull/25",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "mergedAt": 1693308341000
+                }
+            ]
+        },
+        "Rajveer07": {
+            "name": "Rajveer Anand",
+            "total": 3,
+            "merged": 3,
+            "pullRequests": [
+                {
+                    "id": 1870472487,
+                    "title": "//added algorithm that will counter the condition like \"21.3.24.4\" or\u2026",
+                    "url": "https://github.com/N3v1/Calculator/pull/55",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "mergedAt": 1693285135000
+                },
+                {
+                    "id": 1868461706,
+                    "title": "Open Source Marathon title Glitch Effect",
+                    "url": "https://github.com/devs2gather/devs2gather.github.io/pull/4",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "mergedAt": 1693193307000
+                },
+                {
+                    "id": 1868175599,
+                    "title": "Wrote the code for missing number in array",
+                    "url": "https://github.com/devs2gather/algorithms/pull/8",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "mergedAt": 1693187129000
+                }
+            ]
+        },
+        "Shikharg02": {
+            "name": "Shikhar Gupta",
+            "total": 1,
+            "merged": 0,
+            "pullRequests": [
+                {
+                    "id": 1869357952,
+                    "title": "linear_search_done",
+                    "url": "https://github.com/devs2gather/algorithms/pull/20",
+                    "user": "Shikharg02",
+                    "isMerged": false,
+                    "mergedAt": null
+                }
+            ]
+        },
+        "SmritiKeshri": {
+            "name": "Smriti Keshri",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1869754042,
+                    "title": "Merge Sort",
+                    "url": "https://github.com/devs2gather/algorithms/pull/23",
+                    "user": "SmritiKeshri",
+                    "isMerged": true,
+                    "mergedAt": 1693284642000
+                }
+            ]
+        },
+        "pennyvice": {
+            "name": "Aditya Yadav",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1868395934,
+                    "title": "Issue: Quick Sort// Status: Done",
+                    "url": "https://github.com/devs2gather/algorithms/pull/11",
+                    "user": "pennyvice",
+                    "isMerged": true,
+                    "mergedAt": 1693186737000
+                }
+            ]
+        },
+        "shivang-git": {
+            "name": "Shivang Srivastava",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1868537636,
+                    "title": "Merging two sorted Linked lists",
+                    "url": "https://github.com/devs2gather/algorithms/pull/18",
+                    "user": "shivang-git",
+                    "isMerged": true,
+                    "mergedAt": 1693187654000
+                }
+            ]
+        },
+        "uditagrawal08": {
+            "name": "Udit Kumar Agrawal",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1861965129,
+                    "title": "product_details_page",
+                    "url": "https://github.com/cc-bhu/marketplace/pull/22",
+                    "user": "uditagrawal08",
+                    "isMerged": true,
+                    "mergedAt": 1692871410000
+                }
+            ]
+        },
+        "utpal797": {
+            "name": "Utpal  Kant Tiwary",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1866946075,
+                    "title": "Update readme.md",
+                    "url": "https://github.com/Rohanraj007/marathon/pull/2",
+                    "user": "utpal797",
+                    "isMerged": true,
+                    "mergedAt": 1692965823000
+                }
+            ]
+        },
+        "utsavmishra20": {
+            "name": "Utsav Mishra",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1872666590,
+                    "title": "Add linked list file",
+                    "url": "https://github.com/devs2gather/algorithms/pull/31",
+                    "user": "utsavmishra20",
+                    "isMerged": true,
+                    "mergedAt": 1693393475000
+                }
+            ]
+        },
+        "yaranathakur": {
+            "name": "Yarana Kumar",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1871571484,
+                    "title": "Breadth First Algorithm Implemented Succesfully",
+                    "url": "https://github.com/devs2gather/algorithms/pull/27",
+                    "user": "yaranathakur",
+                    "isMerged": true,
+                    "mergedAt": 1693393636000
+                }
+            ]
+        },
+        "yr1404": {
+            "name": "Yash Raj",
+            "total": 1,
+            "merged": 1,
+            "pullRequests": [
+                {
+                    "id": 1873500618,
+                    "title": "Insertion Sort using Java",
+                    "url": "https://github.com/devs2gather/algorithms/pull/33",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "mergedAt": 1693411176000
+                }
+            ]
+        }
+    }
+}
