@@ -39,24 +39,40 @@ def get_prs(users):
     return response.json()
 
 
+def build_pr_identifier(url):
+    """Generate a PR identifier."""
+
+    splits = url.split("/")
+    return f"{splits[-4]}/{splits[-3]}#{splits[-1]}"
+
+
 def _process(prs):
     """Process the pull requests response."""
 
     # Create a dataframe of all Pull Requests
     df = pd.DataFrame(prs["items"])
-    df = df[["id", "title", "html_url", "user", "pull_request"]]
+    df = df[["id", "title", "html_url", "state", "user", "pull_request", "created_at"]]
 
     # Extract the user login
     df["user"] = df["user"].apply(lambda x: x["login"])
 
-    # Extract the merged status
-    df["is_merged"] = df["pull_request"].apply(lambda x: True if x['merged_at'] else False)
-    df["merged_at"] = df["pull_request"].apply(lambda x: x['merged_at'] if x['merged_at'] else None)
-    df["merged_at"] = pd.to_datetime(df["merged_at"])
-    df = df.drop(columns=["pull_request"])
+    # Convert html_url to Pull Request Identifier
+    df["ref"] = df["html_url"].apply(lambda x: build_pr_identifier(x))
 
-    # Rename columns
-    df.columns = ["id", "title", "url", "user", "isMerged", "mergedAt"]
+    # Extract the merged status
+    df["isMerged"] = df["pull_request"].apply(lambda x: True if x['merged_at'] else False)
+    df["merged_at"] = df["pull_request"].apply(lambda x: x['merged_at'] if x['merged_at'] else None)
+
+    # Convert to datetime
+    df["createdAt"] = pd.to_datetime(df["created_at"])
+    df["mergedAt"] = pd.to_datetime(df["merged_at"])
+
+    # Drop the unnecessary columns
+    df = df.drop(columns=["pull_request", "created_at", "merged_at"])
+    df.rename(columns={"html_url": "url"}, inplace=True)
+
+    # Reorder the columns
+    df = df[["id", "ref", "title", "url", "state", "user", "isMerged", "createdAt", "mergedAt"]]
 
     return df
 
@@ -66,11 +82,13 @@ def generate_leaderboard(df, names):
 
     def create_dict(x, names):
         pulls = x.to_dict(orient="records")
+        merged = sum([1 if i["isMerged"] else 0 for i in pulls])
 
         return {
             "name": names[x.user.iloc[0].lower()]["name"],
             "total": len(x),
-            "merged": sum([1 if i["isMerged"] else 0 for i in pulls]),
+            "merged": merged,
+            "completed": merged>=3,
             "pullRequests": pulls
         }
 
