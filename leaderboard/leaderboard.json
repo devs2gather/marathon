@@ -1,5 +1,5 @@
 {
-    "total": 18,
+    "total": 19,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -183,6 +183,25 @@
                     "isMerged": true,
                     "createdAt": 1693228764000,
                     "mergedAt": 1693284642000
+                }
+            ]
+        },
+        "TheShivamkumarsingh": {
+            "name": "Shivam Kumar Singh",
+            "total": 1,
+            "merged": 1,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1869405892,
+                    "ref": "devs2gather/algorithms#21",
+                    "title": "Bubble Sort Algorithm",
+                    "url": "https://github.com/devs2gather/algorithms/pull/21",
+                    "state": "closed",
+                    "user": "TheShivamkumarsingh",
+                    "isMerged": true,
+                    "createdAt": 1693215961000,
+                    "mergedAt": 1693217084000
                 }
             ]
         },
