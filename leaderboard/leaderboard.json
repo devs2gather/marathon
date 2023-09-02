@@ -1,5 +1,5 @@
 {
-    "total": 19,
+    "total": 24,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -69,12 +69,42 @@
                 }
             ]
         },
+        "Hraj24": {
+            "name": "Harsh Raj",
+            "total": 1,
+            "merged": 0,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1877444864,
+                    "ref": "devs2gather/algorithms#36",
+                    "title": "Create jaggedarray.java",
+                    "url": "https://github.com/devs2gather/algorithms/pull/36",
+                    "state": "open",
+                    "user": "Hraj24",
+                    "isMerged": false,
+                    "createdAt": 1693575447000,
+                    "mergedAt": null
+                }
+            ]
+        },
         "Muskan2512": {
             "name": "Muskan Chaurasia",
-            "total": 1,
+            "total": 2,
             "merged": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1877318642,
+                    "ref": "piyushgarg-dev/piyushgargdev-nextjs#553",
+                    "title": "fix: Cursor pointer is removed from the Logo i.e. Piyush Garg",
+                    "url": "https://github.com/piyushgarg-dev/piyushgargdev-nextjs/pull/553",
+                    "state": "open",
+                    "user": "Muskan2512",
+                    "isMerged": false,
+                    "createdAt": 1693570569000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1868365197,
                     "ref": "devs2gather/algorithms#10",
@@ -90,10 +120,32 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 1,
-            "merged": 1,
-            "completed": false,
+            "total": 3,
+            "merged": 3,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1878212174,
+                    "ref": "KendallDoesCoding/youtubers-birthdays#78",
+                    "title": "Update README.md",
+                    "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/78",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1693615511000,
+                    "mergedAt": 1693616182000
+                },
+                {
+                    "id": 1876739883,
+                    "ref": "shyamtawli/devFind#379",
+                    "title": "add:raghav-singh",
+                    "url": "https://github.com/shyamtawli/devFind/pull/379",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1693545073000,
+                    "mergedAt": 1693575704000
+                },
                 {
                     "id": 1871030243,
                     "ref": "devs2gather/algorithms#25",
@@ -109,10 +161,21 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 3,
-            "merged": 3,
+            "total": 4,
+            "merged": 4,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1877027905,
+                    "ref": "Arun0021/Snake-Game#2",
+                    "title": "Made it responsive",
+                    "url": "https://github.com/Arun0021/Snake-Game/pull/2",
+                    "state": "closed",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "createdAt": 1693558549000,
+                    "mergedAt": 1693563735000
+                },
                 {
                     "id": 1870472487,
                     "ref": "N3v1/Calculator#55",
