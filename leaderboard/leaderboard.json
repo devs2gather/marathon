@@ -1,5 +1,5 @@
 {
-    "total": 24,
+    "total": 27,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -161,10 +161,21 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 4,
+            "total": 5,
             "merged": 4,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1878356870,
+                    "ref": "smakela13/smakela-portfolio-react-version#149",
+                    "title": "changed the twitter logo",
+                    "url": "https://github.com/smakela13/smakela-portfolio-react-version/pull/149",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1693631966000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1877027905,
                     "ref": "Arun0021/Snake-Game#2",
@@ -289,10 +300,21 @@
         },
         "shivang-git": {
             "name": "Shivang Srivastava",
-            "total": 1,
+            "total": 2,
             "merged": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1878814909,
+                    "ref": "ArunBohra12/natours-backend#36",
+                    "title": "changing status value to boolean",
+                    "url": "https://github.com/ArunBohra12/natours-backend/pull/36",
+                    "state": "closed",
+                    "user": "shivang-git",
+                    "isMerged": false,
+                    "createdAt": 1693682424000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1868537636,
                     "ref": "devs2gather/algorithms#18",
@@ -346,10 +368,21 @@
         },
         "utsavmishra20": {
             "name": "Utsav Mishra",
-            "total": 1,
+            "total": 2,
             "merged": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1878758155,
+                    "ref": "hamaluik/timecop#127",
+                    "title": "set default date as 1st of the current month.",
+                    "url": "https://github.com/hamaluik/timecop/pull/127",
+                    "state": "open",
+                    "user": "utsavmishra20",
+                    "isMerged": false,
+                    "createdAt": 1693672069000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1872666590,
                     "ref": "devs2gather/algorithms#31",
