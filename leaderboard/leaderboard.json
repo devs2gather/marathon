@@ -1,12 +1,134 @@
 {
-    "total": 27,
+    "total": 39,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
-            "total": 1,
+            "total": 12,
             "merged": 1,
+            "open": 3,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1879150294,
+                    "ref": "firstcontributions/first-contributions#72534",
+                    "title": "Add AbhayKabdwal in contributors",
+                    "url": "https://github.com/firstcontributions/first-contributions/pull/72534",
+                    "state": "open",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693757326000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879099357,
+                    "ref": "hastagAB/Awesome-Python-Scripts#315",
+                    "title": "Improvised Youtube_Video_Downloader",
+                    "url": "https://github.com/hastagAB/Awesome-Python-Scripts/pull/315",
+                    "state": "open",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693747693000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879085298,
+                    "ref": "TheAlgorithms/Python#9038",
+                    "title": "improvised area_under_curve to give area of any polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9038",
+                    "state": "open",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693745575000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879080122,
+                    "ref": "TheAlgorithms/Python#9037",
+                    "title": "Improvised area_under_curve to work for any user input polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9037",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693744537000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879075788,
+                    "ref": "TheAlgorithms/Python#9036",
+                    "title": "improvised area_under_curve to work for any user input",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9036",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693743726000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879051620,
+                    "ref": "TheAlgorithms/Python#9035",
+                    "title": "Added under a polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9035",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693739038000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879047091,
+                    "ref": "TheAlgorithms/Python#9034",
+                    "title": "Added area of polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9034",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693738087000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879042591,
+                    "ref": "TheAlgorithms/Python#9033",
+                    "title": "Added area of polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9033",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693737190000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879041980,
+                    "ref": "TheAlgorithms/Python#9032",
+                    "title": "Added area of polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9032",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693737070000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879041281,
+                    "ref": "TheAlgorithms/Python#9031",
+                    "title": "Added area of polynomial",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9031",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693736934000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1879036820,
+                    "ref": "TheAlgorithms/Python#9030",
+                    "title": "added area of polynomial functions",
+                    "url": "https://github.com/TheAlgorithms/Python/pull/9030",
+                    "state": "closed",
+                    "user": "AbhayKabdwal",
+                    "isMerged": false,
+                    "createdAt": 1693735974000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1872957562,
                     "ref": "devs2gather/algorithms#32",
@@ -24,6 +146,7 @@
             "name": "Anchal Singh",
             "total": 2,
             "merged": 0,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -54,6 +177,7 @@
             "name": "Baljeet Kumar",
             "total": 1,
             "merged": 0,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -72,19 +196,20 @@
         "Hraj24": {
             "name": "Harsh Raj",
             "total": 1,
-            "merged": 0,
+            "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
                     "id": 1877444864,
                     "ref": "devs2gather/algorithms#36",
-                    "title": "Create jaggedarray.java",
+                    "title": "Jagged Array in Java",
                     "url": "https://github.com/devs2gather/algorithms/pull/36",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Hraj24",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1693575447000,
-                    "mergedAt": null
+                    "mergedAt": 1693722142000
                 }
             ]
         },
@@ -92,6 +217,7 @@
             "name": "Muskan Chaurasia",
             "total": 2,
             "merged": 1,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -122,6 +248,7 @@
             "name": "Raghav Singh",
             "total": 3,
             "merged": 3,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -161,10 +288,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 5,
+            "total": 6,
             "merged": 4,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1879052849,
+                    "ref": "sarkartanmay393/Portfolio-V3#7",
+                    "title": "smoothly added a boolean switch between green and red dots",
+                    "url": "https://github.com/sarkartanmay393/Portfolio-V3/pull/7",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1693739268000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1878356870,
                     "ref": "smakela13/smakela-portfolio-react-version#149",
@@ -226,6 +365,7 @@
             "name": "Shikhar Gupta",
             "total": 1,
             "merged": 0,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -245,6 +385,7 @@
             "name": "Smriti Keshri",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -264,6 +405,7 @@
             "name": "Shivam Kumar Singh",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -283,6 +425,7 @@
             "name": "Aditya Yadav",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -302,6 +445,7 @@
             "name": "Shivang Srivastava",
             "total": 2,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -332,6 +476,7 @@
             "name": "Udit Kumar Agrawal",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -351,6 +496,7 @@
             "name": "Utpal  Kant Tiwary",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -370,6 +516,7 @@
             "name": "Utsav Mishra",
             "total": 2,
             "merged": 1,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -400,6 +547,7 @@
             "name": "Yarana Kumar",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -419,6 +567,7 @@
             "name": "Yash Raj",
             "total": 1,
             "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
