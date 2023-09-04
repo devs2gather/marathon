@@ -4,6 +4,8 @@ import json
 import requests
 import pandas as pd
 
+from filters import INELIGIBLE_PRS
+
 
 if len(sys.argv) != 2:
     raise ValueError('Must provide a csv file')
@@ -84,6 +86,9 @@ def _process(prs):
 
     # Reorder the columns
     df = df[["id", "ref", "title", "url", "state", "user", "isMerged", "createdAt", "mergedAt"]]
+
+    # Filter out the ineligible PRs
+    df = df[~df["ref"].isin(INELIGIBLE_PRS)]
 
     return df
 
