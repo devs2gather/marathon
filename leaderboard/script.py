@@ -29,14 +29,25 @@ def generate_query(users):
 def get_prs(users):
     """Get PRs for all users."""
     query = generate_query(users)
-    url = f"https://api.github.com/search/issues?q={query}"
-    response = requests.get(
-        url,
-        headers={'Accept': 'application/vnd.github.v3+json'},
-        timeout=10
-    )
-    response.raise_for_status()
-    return response.json()
+    page = 1
+    prs = []
+    while True:
+        print(f"Fetching page {page}")
+        url = f"https://api.github.com/search/issues?q={query}&per_page=100&page={page}"
+        response = requests.get(
+            url,
+            headers={'Accept': 'application/vnd.github.v3+json'},
+            timeout=10
+        )
+
+        response.raise_for_status()
+        if not response.json()["items"]:
+            break
+
+        prs.extend(response.json()["items"])
+        page += 1
+
+    return {"total_count": len(prs), "items": prs}
 
 
 def build_pr_identifier(url):
@@ -83,11 +94,13 @@ def generate_leaderboard(df, names):
     def create_dict(x, names):
         pulls = x.to_dict(orient="records")
         merged = sum([1 if i["isMerged"] else 0 for i in pulls])
+        open = sum([1 if i["state"] == "open" else 0 for i in pulls])
 
         return {
             "name": names[x.user.iloc[0].lower()]["name"],
             "total": len(x),
             "merged": merged,
+            "open": open,
             "completed": merged>=3,
             "pullRequests": pulls
         }
