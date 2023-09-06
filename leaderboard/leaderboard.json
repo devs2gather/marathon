@@ -1,5 +1,5 @@
 {
-    "total": 39,
+    "total": 40,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -200,11 +200,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 6,
-            "merged": 4,
+            "total": 7,
+            "merged": 5,
             "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1881443290,
+                    "ref": "Arun0021/Snake-Game#4",
+                    "title": "added a design file mobile version of the application.",
+                    "url": "https://github.com/Arun0021/Snake-Game/pull/4",
+                    "state": "closed",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "createdAt": 1693901483000,
+                    "mergedAt": 1693922822000
+                },
                 {
                     "id": 1879052849,
                     "ref": "sarkartanmay393/Portfolio-V3#7",
