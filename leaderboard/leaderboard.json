@@ -1,11 +1,11 @@
 {
-    "total": 40,
+    "total": 41,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
             "total": 4,
             "merged": 1,
-            "open": 3,
+            "open": 2,
             "completed": false,
             "pullRequests": [
                 {
@@ -35,7 +35,7 @@
                     "ref": "TheAlgorithms/Python#9038",
                     "title": "improvised area_under_curve to give area of any polynomial",
                     "url": "https://github.com/TheAlgorithms/Python/pull/9038",
-                    "state": "open",
+                    "state": "closed",
                     "user": "AbhayKabdwal",
                     "isMerged": false,
                     "createdAt": 1693745575000,
@@ -341,6 +341,26 @@
                     "isMerged": true,
                     "createdAt": 1693215961000,
                     "mergedAt": 1693217084000
+                }
+            ]
+        },
+        "jais-sakshi": {
+            "name": "Sakshi Jaiswal",
+            "total": 1,
+            "merged": 1,
+            "open": 0,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1883919157,
+                    "ref": "Sarvesh-CSE/ComputerScience#32",
+                    "title": "Create info.txt",
+                    "url": "https://github.com/Sarvesh-CSE/ComputerScience/pull/32",
+                    "state": "closed",
+                    "user": "jais-sakshi",
+                    "isMerged": true,
+                    "createdAt": 1694003574000,
+                    "mergedAt": 1694023236000
                 }
             ]
         },
