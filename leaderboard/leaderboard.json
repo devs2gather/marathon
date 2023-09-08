@@ -1,5 +1,5 @@
 {
-    "total": 41,
+    "total": 42,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -107,11 +107,22 @@
         },
         "Hraj24": {
             "name": "Harsh Raj",
-            "total": 1,
+            "total": 2,
             "merged": 1,
-            "open": 0,
+            "open": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1885636930,
+                    "ref": "KendallDoesCoding/youtubers-birthdays#84",
+                    "title": " aman dhattarwal ",
+                    "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/84",
+                    "state": "open",
+                    "user": "Hraj24",
+                    "isMerged": false,
+                    "createdAt": 1694083403000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1877444864,
                     "ref": "devs2gather/algorithms#36",
