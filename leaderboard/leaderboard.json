@@ -1,5 +1,5 @@
 {
-    "total": 42,
+    "total": 45,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -211,11 +211,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 7,
+            "total": 8,
             "merged": 5,
-            "open": 2,
+            "open": 3,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1887764199,
+                    "ref": "mehraTushar/HungryHub#6",
+                    "title": "making mobile freindly to hungryhub restaurant web page",
+                    "url": "https://github.com/mehraTushar/HungryHub/pull/6",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1694182153000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1881443290,
                     "ref": "Arun0021/Snake-Game#4",
@@ -519,11 +530,33 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 1,
-            "merged": 1,
+            "total": 3,
+            "merged": 3,
             "open": 0,
-            "completed": false,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1887921300,
+                    "ref": "schmelto/Portfolio#261",
+                    "title": "fix: Update profile picture and favicon",
+                    "url": "https://github.com/schmelto/Portfolio/pull/261",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1694187775000,
+                    "mergedAt": 1694194738000
+                },
+                {
+                    "id": 1887883363,
+                    "ref": "OpenCodeEra/OpenCodeEra#15",
+                    "title": "Redesigned Contact section",
+                    "url": "https://github.com/OpenCodeEra/OpenCodeEra/pull/15",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1694186299000,
+                    "mergedAt": 1694188961000
+                },
                 {
                     "id": 1873500618,
                     "ref": "devs2gather/algorithms#33",
