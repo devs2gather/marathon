@@ -1,5 +1,5 @@
 {
-    "total": 45,
+    "total": 46,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -109,7 +109,7 @@
             "name": "Harsh Raj",
             "total": 2,
             "merged": 1,
-            "open": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -117,7 +117,7 @@
                     "ref": "KendallDoesCoding/youtubers-birthdays#84",
                     "title": " aman dhattarwal ",
                     "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/84",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Hraj24",
                     "isMerged": false,
                     "createdAt": 1694083403000,
@@ -530,11 +530,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 3,
+            "total": 4,
             "merged": 3,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1888787399,
+                    "ref": "OpenCodeEra/OpenCodeEra#19",
+                    "title": "Added 'Improve this page on GitHub' button",
+                    "url": "https://github.com/OpenCodeEra/OpenCodeEra/pull/19",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1694273217000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1887921300,
                     "ref": "schmelto/Portfolio#261",
