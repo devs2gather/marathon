@@ -1,5 +1,5 @@
 {
-    "total": 46,
+    "total": 50,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -87,11 +87,22 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 1,
-            "merged": 0,
+            "total": 2,
+            "merged": 1,
             "open": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1890979436,
+                    "ref": "KendallDoesCoding/youtubers-birthdays#86",
+                    "title": "add flying beast ",
+                    "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/86",
+                    "state": "closed",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": true,
+                    "createdAt": 1694454428000,
+                    "mergedAt": 1694454742000
+                },
                 {
                     "id": 1861039861,
                     "ref": "kunal-kushwaha/commclassroomOP#3268",
@@ -107,11 +118,33 @@
         },
         "Hraj24": {
             "name": "Harsh Raj",
-            "total": 2,
-            "merged": 1,
-            "open": 0,
+            "total": 4,
+            "merged": 2,
+            "open": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1890764017,
+                    "ref": "shyamtawli/devFind#390",
+                    "title": "Changes Made",
+                    "url": "https://github.com/shyamtawli/devFind/pull/390",
+                    "state": "open",
+                    "user": "Hraj24",
+                    "isMerged": false,
+                    "createdAt": 1694446069000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1890671599,
+                    "ref": "KendallDoesCoding/youtubers-birthdays#85",
+                    "title": "add Aman to the list.",
+                    "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/85",
+                    "state": "closed",
+                    "user": "Hraj24",
+                    "isMerged": true,
+                    "createdAt": 1694443222000,
+                    "mergedAt": 1694447358000
+                },
                 {
                     "id": 1885636930,
                     "ref": "KendallDoesCoding/youtubers-birthdays#84",
@@ -530,21 +563,32 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 4,
-            "merged": 3,
+            "total": 5,
+            "merged": 4,
             "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1890088472,
+                    "ref": "vijay-jaisankar/pandemonium#20",
+                    "title": "docs: Added screenshots to the README",
+                    "url": "https://github.com/vijay-jaisankar/pandemonium/pull/20",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1694424851000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1888787399,
                     "ref": "OpenCodeEra/OpenCodeEra#19",
                     "title": "Added 'Improve this page on GitHub' button",
                     "url": "https://github.com/OpenCodeEra/OpenCodeEra/pull/19",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694273217000,
-                    "mergedAt": null
+                    "mergedAt": 1694443954000
                 },
                 {
                     "id": 1887921300,
