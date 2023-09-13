@@ -1,5 +1,5 @@
 {
-    "total": 50,
+    "total": 54,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -87,11 +87,22 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 2,
+            "total": 3,
             "merged": 1,
-            "open": 1,
+            "open": 2,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1891716798,
+                    "ref": "devs2gather/algorithms#39",
+                    "title": "Selection Sort Algorithm in Java",
+                    "url": "https://github.com/devs2gather/algorithms/pull/39",
+                    "state": "open",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "createdAt": 1694497809000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1890979436,
                     "ref": "KendallDoesCoding/youtubers-birthdays#86",
@@ -118,21 +129,32 @@
         },
         "Hraj24": {
             "name": "Harsh Raj",
-            "total": 4,
-            "merged": 2,
+            "total": 5,
+            "merged": 3,
             "open": 1,
-            "completed": false,
+            "completed": true,
             "pullRequests": [
                 {
-                    "id": 1890764017,
-                    "ref": "shyamtawli/devFind#390",
-                    "title": "Changes Made",
-                    "url": "https://github.com/shyamtawli/devFind/pull/390",
+                    "id": 1891977568,
+                    "ref": "Syknapse/Contribute-To-This-Project#2921",
+                    "title": "Hraj24 card",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2921",
                     "state": "open",
                     "user": "Hraj24",
                     "isMerged": false,
-                    "createdAt": 1694446069000,
+                    "createdAt": 1694507950000,
                     "mergedAt": null
+                },
+                {
+                    "id": 1890764017,
+                    "ref": "shyamtawli/devFind#390",
+                    "title": "add: Hraj24",
+                    "url": "https://github.com/shyamtawli/devFind/pull/390",
+                    "state": "closed",
+                    "user": "Hraj24",
+                    "isMerged": true,
+                    "createdAt": 1694446069000,
+                    "mergedAt": 1694524686000
                 },
                 {
                     "id": 1890671599,
@@ -396,6 +418,37 @@
                     "isMerged": true,
                     "createdAt": 1693215961000,
                     "mergedAt": 1693217084000
+                }
+            ]
+        },
+        "ak3255": {
+            "name": "Aman Kumar",
+            "total": 2,
+            "merged": 1,
+            "open": 1,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1891948804,
+                    "ref": "KendallDoesCoding/youtubers-birthdays#91",
+                    "title": "add CarryisLive",
+                    "url": "https://github.com/KendallDoesCoding/youtubers-birthdays/pull/91",
+                    "state": "closed",
+                    "user": "ak3255",
+                    "isMerged": true,
+                    "createdAt": 1694506972000,
+                    "mergedAt": 1694511527000
+                },
+                {
+                    "id": 1891932399,
+                    "ref": "devs2gather/algorithms#40",
+                    "title": "Create Hashing.java",
+                    "url": "https://github.com/devs2gather/algorithms/pull/40",
+                    "state": "open",
+                    "user": "ak3255",
+                    "isMerged": false,
+                    "createdAt": 1694506460000,
+                    "mergedAt": null
                 }
             ]
         },
