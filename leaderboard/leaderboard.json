@@ -1,5 +1,6 @@
 {
-    "total": 58,
+    "total": 52,
+    "merged": 32,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -87,11 +88,22 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 5,
-            "merged": 1,
-            "open": 3,
-            "completed": false,
+            "total": 6,
+            "merged": 3,
+            "open": 2,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1895631863,
+                    "ref": "Syknapse/Contribute-To-This-Project#2934",
+                    "title": "Created maintainer_guide.hin.md",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2934",
+                    "state": "closed",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": true,
+                    "createdAt": 1694665476000,
+                    "mergedAt": 1694709010000
+                },
                 {
                     "id": 1894850527,
                     "ref": "Syknapse/Contribute-To-This-Project#2933",
@@ -108,11 +120,11 @@
                     "ref": "Syknapse/Contribute-To-This-Project#2931",
                     "title": "Baljeet's Card",
                     "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2931",
-                    "state": "open",
+                    "state": "closed",
                     "user": "BaljeetKumarSingh",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694604559000,
-                    "mergedAt": null
+                    "mergedAt": 1694673523000
                 },
                 {
                     "id": 1891716798,
@@ -649,11 +661,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 6,
+            "total": 7,
             "merged": 4,
-            "open": 2,
+            "open": 3,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1896994109,
+                    "ref": "jonbiemond/BCIT-Flex#44",
+                    "title": "fix: specify text color of nav bar in light mode",
+                    "url": "https://github.com/jonbiemond/BCIT-Flex/pull/44",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1694711632000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1894849113,
                     "ref": "Flowrey/youtube-bz#26",
