@@ -1,5 +1,5 @@
 {
-    "total": 54,
+    "total": 58,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -87,11 +87,33 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 3,
+            "total": 5,
             "merged": 1,
-            "open": 2,
+            "open": 3,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1894850527,
+                    "ref": "Syknapse/Contribute-To-This-Project#2933",
+                    "title": "Created maintainer_guide.hin.md file",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2933",
+                    "state": "closed",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "createdAt": 1694621525000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1894327979,
+                    "ref": "Syknapse/Contribute-To-This-Project#2931",
+                    "title": "Baljeet's Card",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2931",
+                    "state": "open",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "createdAt": 1694604559000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1891716798,
                     "ref": "devs2gather/algorithms#39",
@@ -130,8 +152,8 @@
         "Hraj24": {
             "name": "Harsh Raj",
             "total": 5,
-            "merged": 3,
-            "open": 1,
+            "merged": 4,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -139,11 +161,11 @@
                     "ref": "Syknapse/Contribute-To-This-Project#2921",
                     "title": "Hraj24 card",
                     "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2921",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Hraj24",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694507950000,
-                    "mergedAt": null
+                    "mergedAt": 1694583640000
                 },
                 {
                     "id": 1890764017,
@@ -224,11 +246,22 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 3,
-            "merged": 3,
+            "total": 4,
+            "merged": 4,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1893609839,
+                    "ref": "nikohoffren/fork-commit-merge#522",
+                    "title": "Fixed Issue",
+                    "url": "https://github.com/nikohoffren/fork-commit-merge/pull/522",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1694571912000,
+                    "mergedAt": 1694583182000
+                },
                 {
                     "id": 1878212174,
                     "ref": "KendallDoesCoding/youtubers-birthdays#78",
@@ -616,11 +649,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 5,
+            "total": 6,
             "merged": 4,
-            "open": 1,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1894849113,
+                    "ref": "Flowrey/youtube-bz#26",
+                    "title": "feat: add the progress bar during download progression",
+                    "url": "https://github.com/Flowrey/youtube-bz/pull/26",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1694621486000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1890088472,
                     "ref": "vijay-jaisankar/pandemonium#20",
