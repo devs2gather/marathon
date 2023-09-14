@@ -110,9 +110,18 @@ def generate_leaderboard(df, names):
             "pullRequests": pulls
         }
 
-    return df.groupby("user").apply(
+    users = df.groupby("user").apply(
         lambda x: create_dict(x, names)
-    ).sort_index(ascending=True).to_json()
+    ).sort_index(ascending=True)
+
+    # count total merged PRs
+    leaderboard = {
+        "total": sum(i["total"] for i in users.to_list()),
+        "merged": sum(i["merged"] for i in users.to_list()),
+        "leaderboard": json.loads(users.to_json())
+    }
+
+    return leaderboard
 
 
 def main():
@@ -127,11 +136,7 @@ def main():
         return
 
     df = _process(prs)
-    leaderboard = json.loads(generate_leaderboard(df, names))
-    leaderboard = {
-        "total": prs["total_count"],
-        "leaderboard": leaderboard
-    }
+    leaderboard = generate_leaderboard(df, names)
 
     with open(LEADERBOARD_FILE, "w", encoding="utf-8") as f:
         json.dump(leaderboard, f, indent=4)
