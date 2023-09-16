@@ -1,6 +1,6 @@
 {
-    "total": 52,
-    "merged": 32,
+    "total": 54,
+    "merged": 37,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -88,11 +88,33 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 6,
-            "merged": 3,
+            "total": 8,
+            "merged": 5,
             "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1899049788,
+                    "ref": "Syknapse/Contribute-To-This-Project#2940",
+                    "title": "Created terminal_tutorial.hin.md",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2940",
+                    "state": "open",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "createdAt": 1694810213000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1897928711,
+                    "ref": "Syknapse/Contribute-To-This-Project#2937",
+                    "title": "Modified Path to different languages of README in HINDI.md file.",
+                    "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2937",
+                    "state": "closed",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": true,
+                    "createdAt": 1694765356000,
+                    "mergedAt": 1694773752000
+                },
                 {
                     "id": 1895631863,
                     "ref": "Syknapse/Contribute-To-This-Project#2934",
@@ -131,11 +153,11 @@
                     "ref": "devs2gather/algorithms#39",
                     "title": "Selection Sort Algorithm in Java",
                     "url": "https://github.com/devs2gather/algorithms/pull/39",
-                    "state": "open",
+                    "state": "closed",
                     "user": "BaljeetKumarSingh",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694497809000,
-                    "mergedAt": null
+                    "mergedAt": 1694780172000
                 },
                 {
                     "id": 1890979436,
@@ -469,8 +491,8 @@
         "ak3255": {
             "name": "Aman Kumar",
             "total": 2,
-            "merged": 1,
-            "open": 1,
+            "merged": 2,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -489,11 +511,11 @@
                     "ref": "devs2gather/algorithms#40",
                     "title": "Create Hashing.java",
                     "url": "https://github.com/devs2gather/algorithms/pull/40",
-                    "state": "open",
+                    "state": "closed",
                     "user": "ak3255",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694506460000,
-                    "mergedAt": null
+                    "mergedAt": 1694776557000
                 }
             ]
         },
@@ -662,8 +684,8 @@
         "yr1404": {
             "name": "Yash Raj",
             "total": 7,
-            "merged": 4,
-            "open": 3,
+            "merged": 6,
+            "open": 1,
             "completed": true,
             "pullRequests": [
                 {
@@ -671,22 +693,22 @@
                     "ref": "jonbiemond/BCIT-Flex#44",
                     "title": "fix: specify text color of nav bar in light mode",
                     "url": "https://github.com/jonbiemond/BCIT-Flex/pull/44",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694711632000,
-                    "mergedAt": null
+                    "mergedAt": 1694750841000
                 },
                 {
                     "id": 1894849113,
                     "ref": "Flowrey/youtube-bz#26",
                     "title": "feat: add the progress bar during download progression",
                     "url": "https://github.com/Flowrey/youtube-bz/pull/26",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694621486000,
-                    "mergedAt": null
+                    "mergedAt": 1694806002000
                 },
                 {
                     "id": 1890088472,
