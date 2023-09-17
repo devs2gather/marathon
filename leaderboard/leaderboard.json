@@ -1,6 +1,6 @@
 {
-    "total": 54,
-    "merged": 37,
+    "total": 56,
+    "merged": 38,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -89,8 +89,8 @@
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
             "total": 8,
-            "merged": 5,
-            "open": 2,
+            "merged": 6,
+            "open": 1,
             "completed": true,
             "pullRequests": [
                 {
@@ -98,11 +98,11 @@
                     "ref": "Syknapse/Contribute-To-This-Project#2940",
                     "title": "Created terminal_tutorial.hin.md",
                     "url": "https://github.com/Syknapse/Contribute-To-This-Project/pull/2940",
-                    "state": "open",
+                    "state": "closed",
                     "user": "BaljeetKumarSingh",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694810213000,
-                    "mergedAt": null
+                    "mergedAt": 1694870088000
                 },
                 {
                     "id": 1897928711,
@@ -521,11 +521,33 @@
         },
         "jais-sakshi": {
             "name": "Sakshi Jaiswal",
-            "total": 1,
+            "total": 3,
             "merged": 1,
-            "open": 0,
+            "open": 2,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1899475514,
+                    "ref": "Sarvesh-CSE/Computer_Networks#21",
+                    "title": "Documented form of new syllabus",
+                    "url": "https://github.com/Sarvesh-CSE/Computer_Networks/pull/21",
+                    "state": "open",
+                    "user": "jais-sakshi",
+                    "isMerged": false,
+                    "createdAt": 1694878533000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1899331348,
+                    "ref": "Sarvesh-CSE/ComputerScience#33",
+                    "title": "updated the definition",
+                    "url": "https://github.com/Sarvesh-CSE/ComputerScience/pull/33",
+                    "state": "open",
+                    "user": "jais-sakshi",
+                    "isMerged": false,
+                    "createdAt": 1694848041000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1883919157,
                     "ref": "Sarvesh-CSE/ComputerScience#32",
