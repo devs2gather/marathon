@@ -1,6 +1,6 @@
 {
-    "total": 56,
-    "merged": 38,
+    "total": 57,
+    "merged": 39,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -88,11 +88,22 @@
         },
         "BaljeetKumarSingh": {
             "name": "Baljeet Kumar",
-            "total": 8,
+            "total": 9,
             "merged": 6,
-            "open": 1,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1899817164,
+                    "ref": "firstcontributions/first-contributions#73237",
+                    "title": "Fixed the link corresponding to the name of contributors",
+                    "url": "https://github.com/firstcontributions/first-contributions/pull/73237",
+                    "state": "open",
+                    "user": "BaljeetKumarSingh",
+                    "isMerged": false,
+                    "createdAt": 1694963797000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1899049788,
                     "ref": "Syknapse/Contribute-To-This-Project#2940",
@@ -706,8 +717,8 @@
         "yr1404": {
             "name": "Yash Raj",
             "total": 7,
-            "merged": 6,
-            "open": 1,
+            "merged": 7,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -737,11 +748,11 @@
                     "ref": "vijay-jaisankar/pandemonium#20",
                     "title": "docs: Added screenshots to the README",
                     "url": "https://github.com/vijay-jaisankar/pandemonium/pull/20",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694424851000,
-                    "mergedAt": null
+                    "mergedAt": 1694945865000
                 },
                 {
                     "id": 1888787399,
