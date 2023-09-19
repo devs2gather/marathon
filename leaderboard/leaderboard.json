@@ -1,6 +1,6 @@
 {
-    "total": 57,
-    "merged": 39,
+    "total": 61,
+    "merged": 42,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -439,6 +439,26 @@
                 }
             ]
         },
+        "Sanskar2807": {
+            "name": "Sanskar Sharma",
+            "total": 1,
+            "merged": 0,
+            "open": 1,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1900401225,
+                    "ref": "pedromassango/bottom_navy_bar#112",
+                    "title": "Minimized the space between the icon and the title",
+                    "url": "https://github.com/pedromassango/bottom_navy_bar/pull/112",
+                    "state": "open",
+                    "user": "Sanskar2807",
+                    "isMerged": false,
+                    "createdAt": 1695024706000,
+                    "mergedAt": null
+                }
+            ]
+        },
         "Shikharg02": {
             "name": "Shikhar Gupta",
             "total": 1,
@@ -716,11 +736,44 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 7,
-            "merged": 7,
+            "total": 10,
+            "merged": 10,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1900534953,
+                    "ref": "pyvista/pyvista#4926",
+                    "title": "Fix typos in docstring",
+                    "url": "https://github.com/pyvista/pyvista/pull/4926",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1695029537000,
+                    "mergedAt": 1695036556000
+                },
+                {
+                    "id": 1900496690,
+                    "ref": "vijay-jaisankar/pandemonium#21",
+                    "title": "feat: Added favicon to website",
+                    "url": "https://github.com/vijay-jaisankar/pandemonium/pull/21",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1695028192000,
+                    "mergedAt": 1695045639000
+                },
+                {
+                    "id": 1900460181,
+                    "ref": "GiovanniBruno22/PythonBeginners#44",
+                    "title": "Added pallindrome.py",
+                    "url": "https://github.com/GiovanniBruno22/PythonBeginners/pull/44",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1695026871000,
+                    "mergedAt": 1695029003000
+                },
                 {
                     "id": 1896994109,
                     "ref": "jonbiemond/BCIT-Flex#44",
