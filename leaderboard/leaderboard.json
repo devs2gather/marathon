@@ -1,6 +1,6 @@
 {
-    "total": 61,
-    "merged": 42,
+    "total": 63,
+    "merged": 46,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -58,8 +58,8 @@
         "AnchalSingh20": {
             "name": "Anchal Singh",
             "total": 2,
-            "merged": 0,
-            "open": 1,
+            "merged": 1,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -67,11 +67,11 @@
                     "ref": "devs2gather/algorithms#35",
                     "title": "Infix to Postfix conversion using stack.",
                     "url": "https://github.com/devs2gather/algorithms/pull/35",
-                    "state": "open",
+                    "state": "closed",
                     "user": "AnchalSingh20",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1693494375000,
-                    "mergedAt": null
+                    "mergedAt": 1695312206000
                 },
                 {
                     "id": 1875674425,
@@ -291,11 +291,22 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 4,
-            "merged": 4,
+            "total": 5,
+            "merged": 5,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1907286111,
+                    "ref": "H4K3R13/The-Hello-World-Project#28",
+                    "title": "Added HelloWorld in Bash",
+                    "url": "https://github.com/H4K3R13/The-Hello-World-Project/pull/28",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1695311347000,
+                    "mergedAt": 1695311613000
+                },
                 {
                     "id": 1893609839,
                     "ref": "nikohoffren/fork-commit-merge#522",
@@ -553,31 +564,31 @@
         "jais-sakshi": {
             "name": "Sakshi Jaiswal",
             "total": 3,
-            "merged": 1,
-            "open": 2,
-            "completed": false,
+            "merged": 3,
+            "open": 0,
+            "completed": true,
             "pullRequests": [
                 {
                     "id": 1899475514,
                     "ref": "Sarvesh-CSE/Computer_Networks#21",
                     "title": "Documented form of new syllabus",
                     "url": "https://github.com/Sarvesh-CSE/Computer_Networks/pull/21",
-                    "state": "open",
+                    "state": "closed",
                     "user": "jais-sakshi",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694878533000,
-                    "mergedAt": null
+                    "mergedAt": 1695279291000
                 },
                 {
                     "id": 1899331348,
                     "ref": "Sarvesh-CSE/ComputerScience#33",
                     "title": "updated the definition",
                     "url": "https://github.com/Sarvesh-CSE/ComputerScience/pull/33",
-                    "state": "open",
+                    "state": "closed",
                     "user": "jais-sakshi",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1694848041000,
-                    "mergedAt": null
+                    "mergedAt": 1695279039000
                 },
                 {
                     "id": 1883919157,
@@ -736,11 +747,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 10,
+            "total": 11,
             "merged": 10,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1907198675,
+                    "ref": "jonbiemond/BCIT-Flex#52",
+                    "title": "style: make tables easier to read",
+                    "url": "https://github.com/jonbiemond/BCIT-Flex/pull/52",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1695308606000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1900534953,
                     "ref": "pyvista/pyvista#4926",
