@@ -1,6 +1,6 @@
 {
     "total": 63,
-    "merged": 46,
+    "merged": 47,
     "leaderboard": {
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
@@ -748,8 +748,8 @@
         "yr1404": {
             "name": "Yash Raj",
             "total": 11,
-            "merged": 10,
-            "open": 1,
+            "merged": 11,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -757,11 +757,11 @@
                     "ref": "jonbiemond/BCIT-Flex#52",
                     "title": "style: make tables easier to read",
                     "url": "https://github.com/jonbiemond/BCIT-Flex/pull/52",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695308606000,
-                    "mergedAt": null
+                    "mergedAt": 1695352624000
                 },
                 {
                     "id": 1900534953,
