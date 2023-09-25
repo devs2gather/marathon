@@ -1,7 +1,27 @@
 {
-    "total": 63,
+    "total": 64,
     "merged": 47,
     "leaderboard": {
+        "ATiwari2000": {
+            "name": "Abhishek Tiwari",
+            "total": 1,
+            "merged": 0,
+            "open": 1,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1910342333,
+                    "ref": "schmelto/Portfolio#270",
+                    "title": "[Feat]: Add transparency effect to the navbar.",
+                    "url": "https://github.com/schmelto/Portfolio/pull/270",
+                    "state": "open",
+                    "user": "ATiwari2000",
+                    "isMerged": false,
+                    "createdAt": 1695581887000,
+                    "mergedAt": null
+                }
+            ]
+        },
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
             "total": 4,
