@@ -1,24 +1,35 @@
 {
-    "total": 64,
-    "merged": 47,
+    "total": 66,
+    "merged": 50,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
-            "total": 1,
-            "merged": 0,
-            "open": 1,
+            "total": 2,
+            "merged": 2,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
+                    "id": 1912088450,
+                    "ref": "firstcontributions/first-contributions#73624",
+                    "title": "added name to contributing.md",
+                    "url": "https://github.com/firstcontributions/first-contributions/pull/73624",
+                    "state": "closed",
+                    "user": "ATiwari2000",
+                    "isMerged": true,
+                    "createdAt": 1695667577000,
+                    "mergedAt": 1695667590000
+                },
+                {
                     "id": 1910342333,
                     "ref": "schmelto/Portfolio#270",
-                    "title": "[Feat]: Add transparency effect to the navbar.",
+                    "title": "feat: add transparency effect to the navbar",
                     "url": "https://github.com/schmelto/Portfolio/pull/270",
-                    "state": "open",
+                    "state": "closed",
                     "user": "ATiwari2000",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695581887000,
-                    "mergedAt": null
+                    "mergedAt": 1695658961000
                 }
             ]
         },
@@ -767,11 +778,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 11,
-            "merged": 11,
+            "total": 12,
+            "merged": 12,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1911718272,
+                    "ref": "Basilcss/core#32",
+                    "title": "Remove fontsize styling",
+                    "url": "https://github.com/Basilcss/core/pull/32",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1695654281000,
+                    "mergedAt": 1695663531000
+                },
                 {
                     "id": 1907198675,
                     "ref": "jonbiemond/BCIT-Flex#52",
