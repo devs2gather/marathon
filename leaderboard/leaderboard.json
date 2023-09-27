@@ -1,14 +1,25 @@
 {
-    "total": 66,
+    "total": 68,
     "merged": 50,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
-            "total": 2,
+            "total": 3,
             "merged": 2,
-            "open": 0,
+            "open": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1913995676,
+                    "ref": "devs2gather/devs2gather.github.io#6",
+                    "title": "Updated timeline of the program",
+                    "url": "https://github.com/devs2gather/devs2gather.github.io/pull/6",
+                    "state": "open",
+                    "user": "ATiwari2000",
+                    "isMerged": false,
+                    "createdAt": 1695749988000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1912088450,
                     "ref": "firstcontributions/first-contributions#73624",
@@ -483,11 +494,22 @@
         },
         "Sanskar2807": {
             "name": "Sanskar Sharma",
-            "total": 1,
+            "total": 2,
             "merged": 0,
-            "open": 1,
+            "open": 2,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1913483867,
+                    "ref": "nextcloud/neon#851",
+                    "title": "Disabled mark all notifications as read button when no notifications \u2026",
+                    "url": "https://github.com/nextcloud/neon/pull/851",
+                    "state": "open",
+                    "user": "Sanskar2807",
+                    "isMerged": false,
+                    "createdAt": 1695733892000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1900401225,
                     "ref": "pedromassango/bottom_navy_bar#112",
