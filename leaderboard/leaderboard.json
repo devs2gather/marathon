@@ -1,24 +1,24 @@
 {
-    "total": 68,
-    "merged": 50,
+    "total": 71,
+    "merged": 51,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
             "total": 3,
-            "merged": 2,
-            "open": 1,
-            "completed": false,
+            "merged": 3,
+            "open": 0,
+            "completed": true,
             "pullRequests": [
                 {
                     "id": 1913995676,
                     "ref": "devs2gather/devs2gather.github.io#6",
                     "title": "Updated timeline of the program",
                     "url": "https://github.com/devs2gather/devs2gather.github.io/pull/6",
-                    "state": "open",
+                    "state": "closed",
                     "user": "ATiwari2000",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695749988000,
-                    "mergedAt": null
+                    "mergedAt": 1695921648000
                 },
                 {
                     "id": 1912088450,
@@ -653,6 +653,48 @@
                     "isMerged": true,
                     "createdAt": 1694003574000,
                     "mergedAt": 1694023236000
+                }
+            ]
+        },
+        "morgoth9808": {
+            "name": "Rajat Gupta",
+            "total": 3,
+            "merged": 0,
+            "open": 1,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1918175286,
+                    "ref": "ToolJet/ToolJet#7551",
+                    "title": "changes in S3 data source reference #7542",
+                    "url": "https://github.com/ToolJet/ToolJet/pull/7551",
+                    "state": "open",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1695930814000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1918126004,
+                    "ref": "ToolJet/ToolJet#7550",
+                    "title": "changes required in S3 data source reference #7542",
+                    "url": "https://github.com/ToolJet/ToolJet/pull/7550",
+                    "state": "closed",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1695928840000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1918100862,
+                    "ref": "ToolJet/ToolJet#7549",
+                    "title": "changes in Appwrite data source reference (#7543)",
+                    "url": "https://github.com/ToolJet/ToolJet/pull/7549",
+                    "state": "closed",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1695927644000,
+                    "mergedAt": null
                 }
             ]
         },
