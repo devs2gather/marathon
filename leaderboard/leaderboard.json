@@ -1,6 +1,6 @@
 {
-    "total": 71,
-    "merged": 51,
+    "total": 72,
+    "merged": 52,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -47,8 +47,8 @@
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
             "total": 4,
-            "merged": 1,
-            "open": 2,
+            "merged": 2,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -67,11 +67,11 @@
                     "ref": "hastagAB/Awesome-Python-Scripts#315",
                     "title": "Improvised Youtube_Video_Downloader",
                     "url": "https://github.com/hastagAB/Awesome-Python-Scripts/pull/315",
-                    "state": "open",
+                    "state": "closed",
                     "user": "AbhayKabdwal",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1693747693000,
-                    "mergedAt": null
+                    "mergedAt": 1695977341000
                 },
                 {
                     "id": 1879085298,
@@ -751,11 +751,22 @@
         },
         "uditagrawal08": {
             "name": "Udit Kumar Agrawal",
-            "total": 1,
+            "total": 2,
             "merged": 1,
-            "open": 0,
+            "open": 1,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1918885550,
+                    "ref": "cc-bhu/marketplace#24",
+                    "title": "Seller Registration",
+                    "url": "https://github.com/cc-bhu/marketplace/pull/24",
+                    "state": "open",
+                    "user": "uditagrawal08",
+                    "isMerged": false,
+                    "createdAt": 1695978211000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1861965129,
                     "ref": "cc-bhu/marketplace#22",
