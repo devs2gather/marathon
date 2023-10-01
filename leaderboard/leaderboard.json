@@ -1,6 +1,6 @@
 {
-    "total": 72,
-    "merged": 52,
+    "total": 77,
+    "merged": 54,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -495,8 +495,8 @@
         "Sanskar2807": {
             "name": "Sanskar Sharma",
             "total": 2,
-            "merged": 0,
-            "open": 2,
+            "merged": 1,
+            "open": 1,
             "completed": false,
             "pullRequests": [
                 {
@@ -504,11 +504,11 @@
                     "ref": "nextcloud/neon#851",
                     "title": "Disabled mark all notifications as read button when no notifications \u2026",
                     "url": "https://github.com/nextcloud/neon/pull/851",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Sanskar2807",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695733892000,
-                    "mergedAt": null
+                    "mergedAt": 1696066060000
                 },
                 {
                     "id": 1900401225,
@@ -658,11 +658,55 @@
         },
         "morgoth9808": {
             "name": "Rajat Gupta",
-            "total": 3,
-            "merged": 0,
-            "open": 1,
+            "total": 7,
+            "merged": 1,
+            "open": 3,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1920421798,
+                    "ref": "Aiven-Open/klaw-docs#119",
+                    "title": "(fix) Update correct usage of copyright for PostgreSQL#109",
+                    "url": "https://github.com/Aiven-Open/klaw-docs/pull/119",
+                    "state": "open",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1696113891000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1920411500,
+                    "ref": "Aiven-Open/klaw-docs#118",
+                    "title": " Update correct usage of copyright for PostgreSQL #109 ",
+                    "url": "https://github.com/Aiven-Open/klaw-docs/pull/118",
+                    "state": "closed",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1696111081000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1920296110,
+                    "ref": "embedchain/embedchain#739",
+                    "title": " Setup codecov.io to measure test coverage #696 ",
+                    "url": "https://github.com/embedchain/embedchain/pull/739",
+                    "state": "closed",
+                    "user": "morgoth9808",
+                    "isMerged": true,
+                    "createdAt": 1696087210000,
+                    "mergedAt": 1696098410000
+                },
+                {
+                    "id": 1920165380,
+                    "ref": "AIBauchi/PyDS-A#15",
+                    "title": "Quick Sort #13",
+                    "url": "https://github.com/AIBauchi/PyDS-A/pull/15",
+                    "state": "open",
+                    "user": "morgoth9808",
+                    "isMerged": false,
+                    "createdAt": 1696060794000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1918175286,
                     "ref": "ToolJet/ToolJet#7551",
@@ -853,11 +897,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 12,
+            "total": 13,
             "merged": 12,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1920281954,
+                    "ref": "spring-guides/gs-rest-service-cors#37",
+                    "title": "Upgrade to Spring Boot 3.1.4",
+                    "url": "https://github.com/spring-guides/gs-rest-service-cors/pull/37",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1696084688000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1911718272,
                     "ref": "Basilcss/core#32",
