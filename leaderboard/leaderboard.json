@@ -1,6 +1,6 @@
 {
     "total": 77,
-    "merged": 54,
+    "merged": 56,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -47,20 +47,20 @@
         "AbhayKabdwal": {
             "name": "Abhay Kabdwal",
             "total": 4,
-            "merged": 2,
-            "open": 1,
-            "completed": false,
+            "merged": 3,
+            "open": 0,
+            "completed": true,
             "pullRequests": [
                 {
                     "id": 1879150294,
                     "ref": "firstcontributions/first-contributions#72534",
                     "title": "Add AbhayKabdwal in contributors",
                     "url": "https://github.com/firstcontributions/first-contributions/pull/72534",
-                    "state": "open",
+                    "state": "closed",
                     "user": "AbhayKabdwal",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1693757326000,
-                    "mergedAt": null
+                    "mergedAt": 1696197179000
                 },
                 {
                     "id": 1879099357,
@@ -399,7 +399,7 @@
             "name": "Rajveer Anand",
             "total": 8,
             "merged": 5,
-            "open": 3,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -407,7 +407,7 @@
                     "ref": "mehraTushar/HungryHub#6",
                     "title": "making mobile freindly to hungryhub restaurant web page",
                     "url": "https://github.com/mehraTushar/HungryHub/pull/6",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
                     "isMerged": false,
                     "createdAt": 1694182153000,
@@ -429,7 +429,7 @@
                     "ref": "sarkartanmay393/Portfolio-V3#7",
                     "title": "smoothly added a boolean switch between green and red dots",
                     "url": "https://github.com/sarkartanmay393/Portfolio-V3/pull/7",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
                     "isMerged": false,
                     "createdAt": 1693739268000,
@@ -440,7 +440,7 @@
                     "ref": "smakela13/smakela-portfolio-react-version#149",
                     "title": "changed the twitter logo",
                     "url": "https://github.com/smakela13/smakela-portfolio-react-version/pull/149",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
                     "isMerged": false,
                     "createdAt": 1693631966000,
@@ -659,8 +659,8 @@
         "morgoth9808": {
             "name": "Rajat Gupta",
             "total": 7,
-            "merged": 1,
-            "open": 3,
+            "merged": 2,
+            "open": 2,
             "completed": false,
             "pullRequests": [
                 {
@@ -701,11 +701,11 @@
                     "ref": "AIBauchi/PyDS-A#15",
                     "title": "Quick Sort #13",
                     "url": "https://github.com/AIBauchi/PyDS-A/pull/15",
-                    "state": "open",
+                    "state": "closed",
                     "user": "morgoth9808",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696060794000,
-                    "mergedAt": null
+                    "mergedAt": 1696142934000
                 },
                 {
                     "id": 1918175286,
