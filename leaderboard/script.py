@@ -15,8 +15,9 @@ if not CSV_FILE.endswith('.csv'):
     raise ValueError('File must be a csv')
 
 
-QUERY = "type:pr created:2023-08-19..2023-09-30 -repo:cc-bhu/github-demo"
+QUERY = "type:pr created:2023-08-19..2023-10-15 -repo:cc-bhu/github-demo"
 LEADERBOARD_FILE = "leaderboard.json"
+STATS_FILE = "stats.json"
 
 
 def generate_query(users):
@@ -118,6 +119,8 @@ def generate_leaderboard(df, names):
     leaderboard = {
         "total": sum(i["total"] for i in users.to_list()),
         "merged": sum(i["merged"] for i in users.to_list()),
+        "users": len(users),
+        "completed": sum(i["completed"] for i in users.to_list()),
         "leaderboard": json.loads(users.to_json())
     }
 
@@ -137,9 +140,14 @@ def main():
 
     df = _process(prs)
     leaderboard = generate_leaderboard(df, names)
+    stats = leaderboard.copy()
+    stats.pop("leaderboard")
 
     with open(LEADERBOARD_FILE, "w", encoding="utf-8") as f:
         json.dump(leaderboard, f, indent=4)
+
+    with open(STATS_FILE, "w", encoding="utf-8") as f:
+        json.dump(stats, f, indent=4)
 
 
 if __name__ == "__main__":
