@@ -1,6 +1,6 @@
 {
     "total": 77,
-    "merged": 56,
+    "merged": 57,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -898,8 +898,8 @@
         "yr1404": {
             "name": "Yash Raj",
             "total": 13,
-            "merged": 12,
-            "open": 1,
+            "merged": 13,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -907,11 +907,11 @@
                     "ref": "spring-guides/gs-rest-service-cors#37",
                     "title": "Upgrade to Spring Boot 3.1.4",
                     "url": "https://github.com/spring-guides/gs-rest-service-cors/pull/37",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696084688000,
-                    "mergedAt": null
+                    "mergedAt": 1696241973000
                 },
                 {
                     "id": 1911718272,
