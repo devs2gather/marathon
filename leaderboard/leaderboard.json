@@ -1,6 +1,8 @@
 {
-    "total": 77,
-    "merged": 57,
+    "total": 81,
+    "merged": 58,
+    "users": 22,
+    "completed": 8,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -238,11 +240,22 @@
         },
         "Hraj24": {
             "name": "Harsh Raj",
-            "total": 5,
+            "total": 6,
             "merged": 4,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1924537171,
+                    "ref": "H4K3R13/The-Hello-World-Project#153",
+                    "title": "Simula Language Hello World Program Added",
+                    "url": "https://github.com/H4K3R13/The-Hello-World-Project/pull/153",
+                    "state": "open",
+                    "user": "Hraj24",
+                    "isMerged": false,
+                    "createdAt": 1696351365000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1891977568,
                     "ref": "Syknapse/Contribute-To-This-Project#2921",
@@ -397,11 +410,44 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 8,
-            "merged": 5,
-            "open": 0,
+            "total": 11,
+            "merged": 6,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1924032758,
+                    "ref": "devs2gather/devs2gather.github.io#9",
+                    "title": "Add open-source marathon stats",
+                    "url": "https://github.com/devs2gather/devs2gather.github.io/pull/9",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696335990000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1921392791,
+                    "ref": "DecodersCommunity/HeroPedia#10",
+                    "title": "Added character Loki",
+                    "url": "https://github.com/DecodersCommunity/HeroPedia/pull/10",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696231939000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1920782162,
+                    "ref": "shrey141102/Javascript-projects#10",
+                    "title": "Temprature converter web application ",
+                    "url": "https://github.com/shrey141102/Javascript-projects/pull/10",
+                    "state": "closed",
+                    "user": "Rajveer07",
+                    "isMerged": true,
+                    "createdAt": 1696168774000,
+                    "mergedAt": 1696185454000
+                },
                 {
                     "id": 1887764199,
                     "ref": "mehraTushar/HungryHub#6",
