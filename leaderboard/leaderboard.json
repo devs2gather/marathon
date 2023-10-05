@@ -1,6 +1,6 @@
 {
     "total": 81,
-    "merged": 58,
+    "merged": 59,
     "users": 22,
     "completed": 8,
     "leaderboard": {
@@ -411,8 +411,8 @@
         "Rajveer07": {
             "name": "Rajveer Anand",
             "total": 11,
-            "merged": 6,
-            "open": 2,
+            "merged": 7,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -420,18 +420,18 @@
                     "ref": "devs2gather/devs2gather.github.io#9",
                     "title": "Add open-source marathon stats",
                     "url": "https://github.com/devs2gather/devs2gather.github.io/pull/9",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696335990000,
-                    "mergedAt": null
+                    "mergedAt": 1696436084000
                 },
                 {
                     "id": 1921392791,
                     "ref": "DecodersCommunity/HeroPedia#10",
                     "title": "Added character Loki",
                     "url": "https://github.com/DecodersCommunity/HeroPedia/pull/10",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
                     "isMerged": false,
                     "createdAt": 1696231939000,
