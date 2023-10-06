@@ -1,5 +1,5 @@
 {
-    "total": 81,
+    "total": 82,
     "merged": 59,
     "users": 22,
     "completed": 8,
@@ -410,11 +410,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 11,
+            "total": 12,
             "merged": 7,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1928713800,
+                    "ref": "DecodersCommunity/HeroPedia#46",
+                    "title": "added a search system in heropedia web application",
+                    "url": "https://github.com/DecodersCommunity/HeroPedia/pull/46",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696525227000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1924032758,
                     "ref": "devs2gather/devs2gather.github.io#9",
