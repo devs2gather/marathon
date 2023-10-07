@@ -1,6 +1,6 @@
 {
-    "total": 82,
-    "merged": 59,
+    "total": 86,
+    "merged": 61,
     "users": 22,
     "completed": 8,
     "leaderboard": {
@@ -346,11 +346,44 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 5,
-            "merged": 5,
-            "open": 0,
+            "total": 8,
+            "merged": 6,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1930216609,
+                    "ref": "DhanushNehru/Ultimate-DevOps-Resources#13",
+                    "title": "Added a new youtube channel",
+                    "url": "https://github.com/DhanushNehru/Ultimate-DevOps-Resources/pull/13",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1696599903000,
+                    "mergedAt": 1696600292000
+                },
+                {
+                    "id": 1930169002,
+                    "ref": "kanha-gupta/Popular-code-snippets#72",
+                    "title": "Add HelloWorld in R language",
+                    "url": "https://github.com/kanha-gupta/Popular-code-snippets/pull/72",
+                    "state": "open",
+                    "user": "RaghavSaptam",
+                    "isMerged": false,
+                    "createdAt": 1696598200000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1930120863,
+                    "ref": "DecodersCommunity/HeroPedia#50",
+                    "title": "Added Green Lantern",
+                    "url": "https://github.com/DecodersCommunity/HeroPedia/pull/50",
+                    "state": "open",
+                    "user": "RaghavSaptam",
+                    "isMerged": false,
+                    "createdAt": 1696596695000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1907286111,
                     "ref": "H4K3R13/The-Hello-World-Project#28",
@@ -410,21 +443,32 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 12,
-            "merged": 7,
+            "total": 13,
+            "merged": 8,
             "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1929621746,
+                    "ref": "devs2gather/devs2gather.github.io#11",
+                    "title": "added gallery",
+                    "url": "https://github.com/devs2gather/devs2gather.github.io/pull/11",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696578397000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1928713800,
                     "ref": "DecodersCommunity/HeroPedia#46",
                     "title": "added a search system in heropedia web application",
                     "url": "https://github.com/DecodersCommunity/HeroPedia/pull/46",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696525227000,
-                    "mergedAt": null
+                    "mergedAt": 1696589357000
                 },
                 {
                     "id": 1924032758,
