@@ -1,6 +1,6 @@
 {
-    "total": 86,
-    "merged": 61,
+    "total": 91,
+    "merged": 66,
     "users": 22,
     "completed": 8,
     "leaderboard": {
@@ -346,11 +346,33 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 8,
-            "merged": 6,
-            "open": 2,
+            "total": 10,
+            "merged": 9,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1931174585,
+                    "ref": "d-coder111/Hacktoberfest2023-Python-mini-programs-website#5",
+                    "title": "Created a story game",
+                    "url": "https://github.com/d-coder111/Hacktoberfest2023-Python-mini-programs-website/pull/5",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1696651378000,
+                    "mergedAt": 1696653342000
+                },
+                {
+                    "id": 1931164755,
+                    "ref": "d-coder111/DS-Learn-website#7",
+                    "title": "Adding Interpolation Search",
+                    "url": "https://github.com/d-coder111/DS-Learn-website/pull/7",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1696649207000,
+                    "mergedAt": 1696653438000
+                },
                 {
                     "id": 1930216609,
                     "ref": "DhanushNehru/Ultimate-DevOps-Resources#13",
@@ -367,11 +389,11 @@
                     "ref": "kanha-gupta/Popular-code-snippets#72",
                     "title": "Add HelloWorld in R language",
                     "url": "https://github.com/kanha-gupta/Popular-code-snippets/pull/72",
-                    "state": "open",
+                    "state": "closed",
                     "user": "RaghavSaptam",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696598200000,
-                    "mergedAt": null
+                    "mergedAt": 1696707411000
                 },
                 {
                     "id": 1930120863,
@@ -443,11 +465,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 13,
+            "total": 14,
             "merged": 8,
-            "open": 1,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1931347257,
+                    "ref": "mohitahlawat2001/gallery-app#18",
+                    "title": "made site good for smaller screens",
+                    "url": "https://github.com/mohitahlawat2001/gallery-app/pull/18",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696684317000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1929621746,
                     "ref": "devs2gather/devs2gather.github.io#11",
@@ -998,11 +1031,33 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 13,
-            "merged": 13,
+            "total": 15,
+            "merged": 15,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1931486440,
+                    "ref": "utkarshsingx/baratie#4",
+                    "title": "Modified header css",
+                    "url": "https://github.com/utkarshsingx/baratie/pull/4",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1696709342000,
+                    "mergedAt": 1696710705000
+                },
+                {
+                    "id": 1931441408,
+                    "ref": "arncv/Intima#61",
+                    "title": "Add dark mode button to forum page",
+                    "url": "https://github.com/arncv/Intima/pull/61",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1696701038000,
+                    "mergedAt": 1696704845000
+                },
                 {
                     "id": 1920281954,
                     "ref": "spring-guides/gs-rest-service-cors#37",
