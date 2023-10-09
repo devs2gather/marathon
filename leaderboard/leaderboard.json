@@ -1,6 +1,6 @@
 {
     "total": 91,
-    "merged": 66,
+    "merged": 68,
     "users": 22,
     "completed": 8,
     "leaderboard": {
@@ -347,8 +347,8 @@
         "RaghavSaptam": {
             "name": "Raghav Singh",
             "total": 10,
-            "merged": 9,
-            "open": 1,
+            "merged": 10,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -400,11 +400,11 @@
                     "ref": "DecodersCommunity/HeroPedia#50",
                     "title": "Added Green Lantern",
                     "url": "https://github.com/DecodersCommunity/HeroPedia/pull/50",
-                    "state": "open",
+                    "state": "closed",
                     "user": "RaghavSaptam",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696596695000,
-                    "mergedAt": null
+                    "mergedAt": 1696770921000
                 },
                 {
                     "id": 1907286111,
@@ -466,8 +466,8 @@
         "Rajveer07": {
             "name": "Rajveer Anand",
             "total": 14,
-            "merged": 8,
-            "open": 2,
+            "merged": 9,
+            "open": 1,
             "completed": true,
             "pullRequests": [
                 {
@@ -475,11 +475,11 @@
                     "ref": "mohitahlawat2001/gallery-app#18",
                     "title": "made site good for smaller screens",
                     "url": "https://github.com/mohitahlawat2001/gallery-app/pull/18",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696684317000,
-                    "mergedAt": null
+                    "mergedAt": 1696736523000
                 },
                 {
                     "id": 1929621746,
