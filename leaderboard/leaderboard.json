@@ -1,8 +1,8 @@
 {
-    "total": 91,
-    "merged": 68,
-    "users": 22,
-    "completed": 8,
+    "total": 98,
+    "merged": 72,
+    "users": 23,
+    "completed": 10,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -346,16 +346,38 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 10,
-            "merged": 10,
-            "open": 0,
+            "total": 12,
+            "merged": 11,
+            "open": 1,
             "completed": true,
             "pullRequests": [
                 {
+                    "id": 1932861060,
+                    "ref": "Fr0stb1t3/filetyperepo#18",
+                    "title": "Ctf image",
+                    "url": "https://github.com/Fr0stb1t3/filetyperepo/pull/18",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1696851053000,
+                    "mergedAt": 1696874683000
+                },
+                {
+                    "id": 1932499007,
+                    "ref": "mjsumpter/obsidian-tag-page#7",
+                    "title": "Fixed link to issue page",
+                    "url": "https://github.com/mjsumpter/obsidian-tag-page/pull/7",
+                    "state": "open",
+                    "user": "RaghavSaptam",
+                    "isMerged": false,
+                    "createdAt": 1696838016000,
+                    "mergedAt": null
+                },
+                {
                     "id": 1931174585,
-                    "ref": "d-coder111/Hacktoberfest2023-Python-mini-programs-website#5",
+                    "ref": "d-coder111/Python-mini-programs-website#5",
                     "title": "Created a story game",
-                    "url": "https://github.com/d-coder111/Hacktoberfest2023-Python-mini-programs-website/pull/5",
+                    "url": "https://github.com/d-coder111/Python-mini-programs-website/pull/5",
                     "state": "closed",
                     "user": "RaghavSaptam",
                     "isMerged": true,
@@ -465,11 +487,22 @@
         },
         "Rajveer07": {
             "name": "Rajveer Anand",
-            "total": 14,
+            "total": 15,
             "merged": 9,
-            "open": 1,
+            "open": 2,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1933576534,
+                    "ref": "thecyberbuzz/anycode#63",
+                    "title": "Added temprature converter web application with UI",
+                    "url": "https://github.com/thecyberbuzz/anycode/pull/63",
+                    "state": "open",
+                    "user": "Rajveer07",
+                    "isMerged": false,
+                    "createdAt": 1696875713000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1931347257,
                     "ref": "mohitahlawat2001/gallery-app#18",
@@ -719,11 +752,33 @@
         },
         "ak3255": {
             "name": "Aman Kumar",
-            "total": 2,
-            "merged": 2,
-            "open": 0,
-            "completed": false,
+            "total": 4,
+            "merged": 3,
+            "open": 1,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1932509703,
+                    "ref": "GiovanniBruno22/PythonBeginners#47",
+                    "title": "i added stack operation successfully",
+                    "url": "https://github.com/GiovanniBruno22/PythonBeginners/pull/47",
+                    "state": "open",
+                    "user": "ak3255",
+                    "isMerged": false,
+                    "createdAt": 1696838435000,
+                    "mergedAt": null
+                },
+                {
+                    "id": 1932501794,
+                    "ref": "Midway91/HactoberFest2023#420",
+                    "title": "i have matrixmultpication successfully",
+                    "url": "https://github.com/Midway91/HactoberFest2023/pull/420",
+                    "state": "closed",
+                    "user": "ak3255",
+                    "isMerged": true,
+                    "createdAt": 1696838122000,
+                    "mergedAt": 1696855502000
+                },
                 {
                     "id": 1891948804,
                     "ref": "KendallDoesCoding/youtubers-birthdays#91",
@@ -745,6 +800,26 @@
                     "isMerged": true,
                     "createdAt": 1694506460000,
                     "mergedAt": 1694776557000
+                }
+            ]
+        },
+        "anushka9555": {
+            "name": "Anushka Rai",
+            "total": 1,
+            "merged": 1,
+            "open": 0,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1932806612,
+                    "ref": "DhanushNehru/Ultimate-Web-Development-Resources#192",
+                    "title": "Added new you tube resources for web development",
+                    "url": "https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/pull/192",
+                    "state": "closed",
+                    "user": "anushka9555",
+                    "isMerged": true,
+                    "createdAt": 1696849036000,
+                    "mergedAt": 1696876964000
                 }
             ]
         },
@@ -793,20 +868,20 @@
         "morgoth9808": {
             "name": "Rajat Gupta",
             "total": 7,
-            "merged": 2,
-            "open": 2,
-            "completed": false,
+            "merged": 3,
+            "open": 1,
+            "completed": true,
             "pullRequests": [
                 {
                     "id": 1920421798,
                     "ref": "Aiven-Open/klaw-docs#119",
                     "title": "(fix) Update correct usage of copyright for PostgreSQL#109",
                     "url": "https://github.com/Aiven-Open/klaw-docs/pull/119",
-                    "state": "open",
+                    "state": "closed",
                     "user": "morgoth9808",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696113891000,
-                    "mergedAt": null
+                    "mergedAt": 1696833183000
                 },
                 {
                     "id": 1920411500,
@@ -1031,11 +1106,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 15,
+            "total": 16,
             "merged": 15,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1932716813,
+                    "ref": "hirentimbadiya/Markdown-Previewer#31",
+                    "title": "Added code block preview",
+                    "url": "https://github.com/hirentimbadiya/Markdown-Previewer/pull/31",
+                    "state": "open",
+                    "user": "yr1404",
+                    "isMerged": false,
+                    "createdAt": 1696845757000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1931486440,
                     "ref": "utkarshsingx/baratie#4",
