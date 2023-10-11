@@ -1,6 +1,6 @@
 {
-    "total": 98,
-    "merged": 72,
+    "total": 100,
+    "merged": 75,
     "users": 23,
     "completed": 10,
     "leaderboard": {
@@ -346,11 +346,22 @@
         },
         "RaghavSaptam": {
             "name": "Raghav Singh",
-            "total": 12,
-            "merged": 11,
-            "open": 1,
+            "total": 13,
+            "merged": 12,
+            "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1935754394,
+                    "ref": "mjsumpter/obsidian-tag-page#8",
+                    "title": "Fixed link to issue page",
+                    "url": "https://github.com/mjsumpter/obsidian-tag-page/pull/8",
+                    "state": "closed",
+                    "user": "RaghavSaptam",
+                    "isMerged": true,
+                    "createdAt": 1696955434000,
+                    "mergedAt": 1696955554000
+                },
                 {
                     "id": 1932861060,
                     "ref": "Fr0stb1t3/filetyperepo#18",
@@ -367,7 +378,7 @@
                     "ref": "mjsumpter/obsidian-tag-page#7",
                     "title": "Fixed link to issue page",
                     "url": "https://github.com/mjsumpter/obsidian-tag-page/pull/7",
-                    "state": "open",
+                    "state": "closed",
                     "user": "RaghavSaptam",
                     "isMerged": false,
                     "createdAt": 1696838016000,
@@ -488,8 +499,8 @@
         "Rajveer07": {
             "name": "Rajveer Anand",
             "total": 15,
-            "merged": 9,
-            "open": 2,
+            "merged": 10,
+            "open": 1,
             "completed": true,
             "pullRequests": [
                 {
@@ -497,11 +508,11 @@
                     "ref": "thecyberbuzz/anycode#63",
                     "title": "Added temprature converter web application with UI",
                     "url": "https://github.com/thecyberbuzz/anycode/pull/63",
-                    "state": "open",
+                    "state": "closed",
                     "user": "Rajveer07",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696875713000,
-                    "mergedAt": null
+                    "mergedAt": 1696946594000
                 },
                 {
                     "id": 1931347257,
@@ -1106,11 +1117,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 16,
-            "merged": 15,
+            "total": 17,
+            "merged": 16,
             "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1935223755,
+                    "ref": "ACM-VIT/PDFMaker#5",
+                    "title": "Create file upload option",
+                    "url": "https://github.com/ACM-VIT/PDFMaker/pull/5",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1696940594000,
+                    "mergedAt": 1696950750000
+                },
                 {
                     "id": 1932716813,
                     "ref": "hirentimbadiya/Markdown-Previewer#31",
