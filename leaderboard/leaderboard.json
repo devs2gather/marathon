@@ -1,6 +1,6 @@
 {
     "total": 100,
-    "merged": 75,
+    "merged": 76,
     "users": 23,
     "completed": 10,
     "leaderboard": {
@@ -1118,8 +1118,8 @@
         "yr1404": {
             "name": "Yash Raj",
             "total": 17,
-            "merged": 16,
-            "open": 1,
+            "merged": 17,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -1138,11 +1138,11 @@
                     "ref": "hirentimbadiya/Markdown-Previewer#31",
                     "title": "Added code block preview",
                     "url": "https://github.com/hirentimbadiya/Markdown-Previewer/pull/31",
-                    "state": "open",
+                    "state": "closed",
                     "user": "yr1404",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696845757000,
-                    "mergedAt": null
+                    "mergedAt": 1697001846000
                 },
                 {
                     "id": 1931486440,
