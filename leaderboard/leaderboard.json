@@ -1,6 +1,6 @@
 {
-    "total": 100,
-    "merged": 76,
+    "total": 101,
+    "merged": 80,
     "users": 23,
     "completed": 10,
     "leaderboard": {
@@ -764,8 +764,8 @@
         "ak3255": {
             "name": "Aman Kumar",
             "total": 4,
-            "merged": 3,
-            "open": 1,
+            "merged": 4,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -773,11 +773,11 @@
                     "ref": "GiovanniBruno22/PythonBeginners#47",
                     "title": "i added stack operation successfully",
                     "url": "https://github.com/GiovanniBruno22/PythonBeginners/pull/47",
-                    "state": "open",
+                    "state": "closed",
                     "user": "ak3255",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1696838435000,
-                    "mergedAt": null
+                    "mergedAt": 1697117085000
                 },
                 {
                     "id": 1932501794,
@@ -816,11 +816,22 @@
         },
         "anushka9555": {
             "name": "Anushka Rai",
-            "total": 1,
-            "merged": 1,
+            "total": 2,
+            "merged": 2,
             "open": 0,
             "completed": false,
             "pullRequests": [
+                {
+                    "id": 1939238085,
+                    "ref": "sumn2u/learn-javascript#94",
+                    "title": "added a list of learning resources for JavaScript",
+                    "url": "https://github.com/sumn2u/learn-javascript/pull/94",
+                    "state": "closed",
+                    "user": "anushka9555",
+                    "isMerged": true,
+                    "createdAt": 1697090546000,
+                    "mergedAt": 1697109169000
+                },
                 {
                     "id": 1932806612,
                     "ref": "DhanushNehru/Ultimate-Web-Development-Resources#192",
@@ -879,8 +890,8 @@
         "morgoth9808": {
             "name": "Rajat Gupta",
             "total": 7,
-            "merged": 3,
-            "open": 1,
+            "merged": 4,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -932,11 +943,11 @@
                     "ref": "ToolJet/ToolJet#7551",
                     "title": "changes in S3 data source reference #7542",
                     "url": "https://github.com/ToolJet/ToolJet/pull/7551",
-                    "state": "open",
+                    "state": "closed",
                     "user": "morgoth9808",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695930814000,
-                    "mergedAt": null
+                    "mergedAt": 1697102617000
                 },
                 {
                     "id": 1918126004,
@@ -1016,8 +1027,8 @@
         "uditagrawal08": {
             "name": "Udit Kumar Agrawal",
             "total": 2,
-            "merged": 1,
-            "open": 1,
+            "merged": 2,
+            "open": 0,
             "completed": false,
             "pullRequests": [
                 {
@@ -1025,11 +1036,11 @@
                     "ref": "cc-bhu/marketplace#24",
                     "title": "Seller Registration",
                     "url": "https://github.com/cc-bhu/marketplace/pull/24",
-                    "state": "open",
+                    "state": "closed",
                     "user": "uditagrawal08",
-                    "isMerged": false,
+                    "isMerged": true,
                     "createdAt": 1695978211000,
-                    "mergedAt": null
+                    "mergedAt": 1697123049000
                 },
                 {
                     "id": 1861965129,
