@@ -1,8 +1,8 @@
 {
-    "total": 101,
-    "merged": 80,
+    "total": 102,
+    "merged": 81,
     "users": 23,
-    "completed": 10,
+    "completed": 11,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -816,11 +816,22 @@
         },
         "anushka9555": {
             "name": "Anushka Rai",
-            "total": 2,
-            "merged": 2,
+            "total": 3,
+            "merged": 3,
             "open": 0,
-            "completed": false,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1942645026,
+                    "ref": "pawarspeaks/TechNexus#14",
+                    "title": "Added an offline event",
+                    "url": "https://github.com/pawarspeaks/TechNexus/pull/14",
+                    "state": "closed",
+                    "user": "anushka9555",
+                    "isMerged": true,
+                    "createdAt": 1697231324000,
+                    "mergedAt": 1697232772000
+                },
                 {
                     "id": 1939238085,
                     "ref": "sumn2u/learn-javascript#94",
