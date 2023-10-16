@@ -1,8 +1,8 @@
 {
-    "total": 102,
-    "merged": 81,
+    "total": 105,
+    "merged": 83,
     "users": 23,
-    "completed": 11,
+    "completed": 12,
     "leaderboard": {
         "ATiwari2000": {
             "name": "Abhishek Tiwari",
@@ -816,11 +816,22 @@
         },
         "anushka9555": {
             "name": "Anushka Rai",
-            "total": 3,
+            "total": 4,
             "merged": 3,
-            "open": 0,
+            "open": 1,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1944073707,
+                    "ref": "mlsanigeria/AI-Hacktober-MLSA#205",
+                    "title": "Added pictures of buildings",
+                    "url": "https://github.com/mlsanigeria/AI-Hacktober-MLSA/pull/205",
+                    "state": "open",
+                    "user": "anushka9555",
+                    "isMerged": false,
+                    "createdAt": 1697407275000,
+                    "mergedAt": null
+                },
                 {
                     "id": 1942645026,
                     "ref": "pawarspeaks/TechNexus#14",
@@ -1037,11 +1048,22 @@
         },
         "uditagrawal08": {
             "name": "Udit Kumar Agrawal",
-            "total": 2,
-            "merged": 2,
+            "total": 3,
+            "merged": 3,
             "open": 0,
-            "completed": false,
+            "completed": true,
             "pullRequests": [
+                {
+                    "id": 1943799115,
+                    "ref": "VivekChatterjee/movie-reviewer#5",
+                    "title": "added icon in html page",
+                    "url": "https://github.com/VivekChatterjee/movie-reviewer/pull/5",
+                    "state": "closed",
+                    "user": "uditagrawal08",
+                    "isMerged": true,
+                    "createdAt": 1697359169000,
+                    "mergedAt": 1697391457000
+                },
                 {
                     "id": 1918885550,
                     "ref": "cc-bhu/marketplace#24",
@@ -1139,11 +1161,22 @@
         },
         "yr1404": {
             "name": "Yash Raj",
-            "total": 17,
-            "merged": 17,
+            "total": 18,
+            "merged": 18,
             "open": 0,
             "completed": true,
             "pullRequests": [
+                {
+                    "id": 1943896775,
+                    "ref": "abidurrahman11/Pygame-Racing-Car#32",
+                    "title": "Changed the font and position of score",
+                    "url": "https://github.com/abidurrahman11/Pygame-Racing-Car/pull/32",
+                    "state": "closed",
+                    "user": "yr1404",
+                    "isMerged": true,
+                    "createdAt": 1697377728000,
+                    "mergedAt": 1697391849000
+                },
                 {
                     "id": 1935223755,
                     "ref": "ACM-VIT/PDFMaker#5",
