@@ -1,3 +1,4 @@
+import datetime
 import sys
 import json
 
@@ -80,6 +81,9 @@ def _process(prs):
     # Convert to datetime
     df["createdAt"] = pd.to_datetime(df["created_at"])
     df["mergedAt"] = pd.to_datetime(df["merged_at"])
+
+    # False isMerged if merged_at is before 15 Oct 2023
+    df.loc[df["mergedAt"].dt.date > datetime.date(2023, 10, 15), "isMerged"] = False
 
     # Drop the unnecessary columns
     df = df.drop(columns=["pull_request", "created_at", "merged_at"])

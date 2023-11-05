@@ -1,7 +1,7 @@
 {
-    "total": 105,
-    "merged": 83,
-    "users": 23,
+    "total": 107,
+    "merged": 85,
+    "users": 24,
     "completed": 12,
     "leaderboard": {
         "ATiwari2000": {
@@ -818,7 +818,7 @@
             "name": "Anushka Rai",
             "total": 4,
             "merged": 3,
-            "open": 1,
+            "open": 0,
             "completed": true,
             "pullRequests": [
                 {
@@ -826,7 +826,7 @@
                     "ref": "mlsanigeria/AI-Hacktober-MLSA#205",
                     "title": "Added pictures of buildings",
                     "url": "https://github.com/mlsanigeria/AI-Hacktober-MLSA/pull/205",
-                    "state": "open",
+                    "state": "closed",
                     "user": "anushka9555",
                     "isMerged": false,
                     "createdAt": 1697407275000,
@@ -864,6 +864,37 @@
                     "isMerged": true,
                     "createdAt": 1696849036000,
                     "mergedAt": 1696876964000
+                }
+            ]
+        },
+        "boialok": {
+            "name": "Alok Kumar Dubey",
+            "total": 2,
+            "merged": 2,
+            "open": 0,
+            "completed": false,
+            "pullRequests": [
+                {
+                    "id": 1887524307,
+                    "ref": "nikohoffren/fork-commit-merge#465",
+                    "title": "added bubble sort algorithm",
+                    "url": "https://github.com/nikohoffren/fork-commit-merge/pull/465",
+                    "state": "closed",
+                    "user": "boialok",
+                    "isMerged": true,
+                    "createdAt": 1694173621000,
+                    "mergedAt": 1694174415000
+                },
+                {
+                    "id": 1869538748,
+                    "ref": "devs2gather/algorithms#22",
+                    "title": "kth Smallest Element",
+                    "url": "https://github.com/devs2gather/algorithms/pull/22",
+                    "state": "closed",
+                    "user": "boialok",
+                    "isMerged": true,
+                    "createdAt": 1693220822000,
+                    "mergedAt": 1693223351000
                 }
             ]
         },
